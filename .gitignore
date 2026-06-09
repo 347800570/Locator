@@ -1,0 +1,26 @@
+﻿# Keil build outputs
+Objects/
+Listings/
+*.uvguix.*
+*.scvd
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.htm
+*.lnp
+
+# STM32CubeIDE / general
+Debug/
+Release/
+build/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
